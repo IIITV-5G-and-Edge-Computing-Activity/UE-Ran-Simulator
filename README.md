@@ -15,12 +15,17 @@ Satyam Singh    202151141
 
 # Requirements
 Ubuntu Version 22.04(Jammy)
+
 For Virtualization, VMWare Workstation, Oracle VBox might not work
+
 Install the virtual machine on SSD for smooth experience
+
 Open5gs:
 MongoDB is required
+
 WebUI:
 NodeJS is required
+
 UE-Ran-Simulator 
 Some packages are required for it mentioned below
 
