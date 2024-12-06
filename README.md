@@ -113,13 +113,7 @@ Then delete the focal-security list file you just created:
 
 `make`
 
-## Notes
+# References
+https://www.youtube.com/playlist?list=PLZqpS76PykwIoqMdUt6noAor7eJw83bbp
 
-What is a netdev file
-
-> systemd.netdev - Virtual Network Device configuration
-A plain ini-style text file that encodes configuration about a
-
-> The main Virtual Network Device file must have the extension .netdev; other extensions are ignored. 
-Virtual network devices are created as soon as networkd is started. If a netdev with the  specified name already exists, networkd will use that as-is rather than create its own. Note that the settings of the
-pre-existing netdev will not be changed by networkd.
+https://github.com/aligungr/UERANSIM
